@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap'
 import Rating from './Rating'
 
 
-const Project = ({ product }) => {
+const Product = ({ product }) => {
     return (
         <Card className='my-3 p-3 rounded'>
             <a href={`/product/${product._id}`}>
@@ -35,4 +35,4 @@ const Project = ({ product }) => {
     )
 }
 
-export default Project
+export default Product

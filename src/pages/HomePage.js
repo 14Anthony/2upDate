@@ -12,6 +12,8 @@ const HomePage = () => {
                     <Col sm={12} md={6} lg={6} xl={4}>
 
                         <Product product={product} />
+
+                        {/* <Product product={product} /> */}
                         {/* <h3>{project.name}</h3> */}
 
                     </Col>
