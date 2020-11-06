@@ -1,6 +1,6 @@
 const products = [
     {
-        _id: '7',
+        _id: '1',
         name: 'BurgerMaker',
         image: '/images/BurgerMaker.jpg',
         description:

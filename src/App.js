@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import HomePage from './Pages/HomePage';
 import ProductPage from './Pages/ProductPage';
-// import products from './products';
+import products from './products';
 
 
 const App = () => {
