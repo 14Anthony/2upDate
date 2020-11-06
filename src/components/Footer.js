@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
-
 const Footer = () => {
     return (
+
         <footer>
-            <Container bg="primary" variant="primary" expand="lg">
+            <Container className="fixed-bottom" bg="primary" variant="primary" expand="lg">
 
                 <Row>
 
@@ -17,6 +17,7 @@ const Footer = () => {
 
             </Container>
         </ footer>
+
     )
 }
 
