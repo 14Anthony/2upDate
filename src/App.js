@@ -1,9 +1,9 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import HomePage from './Pages/HomePage';
+import HomePage from './Pages/HomePage.js';
 import ProductPage from './Pages/ProductPage';
 // import products from './products';
 
